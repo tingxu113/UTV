@@ -3,7 +3,7 @@
 **Homepage:**  https://tingxu113.github.io/
 
 # How to use?
-- Directly run: ``Demo.m`` 
+- Directly run: ``demo.m`` 
 
  
 # Citation
